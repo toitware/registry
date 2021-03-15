@@ -1,0 +1,5 @@
+name: morse
+description: Functions for International (ITU) Morse code.
+license: MIT
+url: github.com/toitware/toit-morse
+version: 1.0.1
