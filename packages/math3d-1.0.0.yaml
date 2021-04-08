@@ -1,0 +1,5 @@
+name: morse
+description: Utility library for working in 3d.
+license: MIT
+url: github.com/andersjohnsen/math3d
+version: 1.0.0
