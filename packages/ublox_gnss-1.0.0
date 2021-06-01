@@ -1,4 +1,4 @@
-name: ublox-gnss
+name: ublox_gnss
 description: Driver for the u-blox M* GNSS receivers.
 license: MIT
 url: github.com/toitware/ublox-gnss-driver
