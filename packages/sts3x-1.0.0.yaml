@@ -1,0 +1,5 @@
+name: sts3x
+description: Driver for STS3x-DIS high-accuracy digital temperature sensors.
+license: MIT
+url: github.com/toitware/sts3x-driver
+version: 1.0.0
