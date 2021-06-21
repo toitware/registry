@@ -2,4 +2,4 @@ name: bme280
 description: Driver for the Bosch BME280 environmental sensor.
 license: MIT
 url: github.com/toitware/bme280-driver
-version: Driver for the Bosch BME280 environmental sensor.
+version: v1.0.0
