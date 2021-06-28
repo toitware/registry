@@ -1,0 +1,5 @@
+name: newton_raphson
+description: Implementation of the root-finding algorithm, named after Isaac Newton and Joseph Raphson.
+license: MIT
+url: github.com/toitware/toit-newton-raphson
+version: 1.0.0
