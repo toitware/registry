@@ -1,0 +1,8 @@
+name: ahrs
+description: Attitude and heading reference system (AHRS) implementations.
+license: MIT
+url: github.com/andersjohnsen/ahrs
+version: 1.0.0
+dependencies:
+- url: github.com/andersjohnsen/math3d
+  version: 1.0.1
