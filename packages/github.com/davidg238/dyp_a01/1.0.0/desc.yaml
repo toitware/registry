@@ -1,0 +1,6 @@
+name: dyp_a01
+description: A simple serial interface to the inexpensive DYP-A01 ultrasonic ranger,
+  available from Adafruit and AliExpress.
+license: MIT
+url: github.com/davidg238/dyp_a01
+version: 1.0.0
