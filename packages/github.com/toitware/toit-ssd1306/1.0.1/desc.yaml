@@ -1,0 +1,9 @@
+name: ssd1306
+description: Driver for the small black-white OLED display.
+license: MIT
+url: github.com/toitware/toit-ssd1306
+version: 1.0.1
+hash: ab4cb1f401503f6fa4bdedaccfaf1d4d59446756
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^1.2.0
