@@ -1,0 +1,9 @@
+name: color_tft
+description: Driver for the 18 bit TFT color displays.
+license: MIT
+url: github.com/toitware/toit-color-tft
+version: 1.0.1
+hash: 07ab3be4ddbbbc2c9a865164d679c3b33d7e1a8f
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^1.2.0
