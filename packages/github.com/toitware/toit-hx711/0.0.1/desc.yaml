@@ -1,0 +1,6 @@
+name: hx711
+description: A driver for the HX711 analog-to-digital converter often used for scales.
+license: MIT
+url: github.com/toitware/toit-hx711
+version: 0.0.1
+hash: b8a8fe89c4cbfe5a1fa1284d77d839d689b9a861
