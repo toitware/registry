@@ -1,0 +1,6 @@
+name: servo
+description: Utility library for working with servo motors.
+license: MIT
+url: github.com/andersjohnsen/servo
+version: 1.0.0
+hash: 1d8f4f7dd2eb3fa10208c923d7c85be37f341bb8
