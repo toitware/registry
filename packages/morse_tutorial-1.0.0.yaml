@@ -1,5 +1,0 @@
-name: morse_tutorial
-description: A tutorial version of the Morse package.
-license: MIT
-url: github.com/toitware/toit-morse-tutorial
-version: 1.0.0
