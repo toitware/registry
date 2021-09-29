@@ -1,0 +1,6 @@
+name: vcnl4040
+description: A low level driver for the VCNL4040 sensor.
+license: MIT
+url: github.com/toitware/toit-vcnl4040
+version: 0.1.0
+hash: 4c0d7e99b351d7964b93ed9b44c11830bbf14605
