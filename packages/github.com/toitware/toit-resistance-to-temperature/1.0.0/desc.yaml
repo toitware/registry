@@ -1,0 +1,9 @@
+name: resistance_to_temperature
+description: Calculation of temperature from resistance.
+license: MIT
+url: github.com/toitware/toit-resistance-to-temperature
+version: 1.0.0
+hash: 4597cc0b05a7cbfbd3ac2eee46ddf213ed5d7540
+dependencies:
+- url: github.com/toitware/toit-newton-raphson
+  version: ^1.0.0
