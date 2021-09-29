@@ -1,0 +1,6 @@
+name: pid
+description: PID Controller for error-correcting feedback loop.
+license: MIT
+url: github.com/andersjohnsen/pid
+version: 1.0.1
+hash: ccc542c1d0df544c2e6dfa58efa0bd225698dde4
