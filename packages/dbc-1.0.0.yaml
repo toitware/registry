@@ -1,5 +1,0 @@
-name: dbc
-description: Utility library for working with generated Toit code from DBC files.
-license: MIT
-url: github.com/toitware/dbc
-version: 1.0.0
