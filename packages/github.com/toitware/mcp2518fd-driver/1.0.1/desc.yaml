@@ -1,0 +1,6 @@
+name: mcp2518fd
+description: Driver for the MCP2518FD CAN FD controller.
+license: MIT
+url: github.com/toitware/mcp2518fd-driver
+version: 1.0.1
+hash: 50efa6a3ffec33927df1a52c11a11afe9e4a88d3
