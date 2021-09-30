@@ -1,0 +1,6 @@
+name: mcp342x
+description: Driver for MCP342x ADC devices
+license: MIT
+url: github.com/toitware/mcp342x-driver
+version: 1.0.0
+hash: a756f36121b7806b722b78bd204f330150d44e1f
