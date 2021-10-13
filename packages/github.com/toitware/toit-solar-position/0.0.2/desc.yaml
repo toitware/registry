@@ -1,0 +1,7 @@
+name: solar_position
+description: Can calculate the sunrise and sunset times for a given place and time
+  on Earth.  Understands civil twilight, nautical twilight, and astronomical twilight.
+license: MIT
+url: github.com/toitware/toit-solar-position
+version: 0.0.2
+hash: b585abba05e1338618a79d701698d0f4949649f0
