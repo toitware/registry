@@ -1,0 +1,6 @@
+name: sht31_d_driver
+description: Toit driver for the SHT31-D Digital Temperature &amp; Humidity Sensor
+license: MIT
+url: github.com/harshkc03/sht31-d_driver
+version: 1.0.0
+hash: 3c26dec0d4286279cbf1c4f9f7110974a8ab8faa
