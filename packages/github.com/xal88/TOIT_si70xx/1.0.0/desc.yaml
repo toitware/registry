@@ -1,0 +1,6 @@
+name: si70xx
+description: A low level TOIT driver for the Silabs Si70xx/HTU21D sensor family.
+license: MIT
+url: github.com/xal88/TOIT_si70xx
+version: 1.0.0
+hash: 2112b69666f0bf84bf4cca114a86565d77210575
