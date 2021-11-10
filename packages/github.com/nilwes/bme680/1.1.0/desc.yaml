@@ -1,0 +1,6 @@
+name: bme680
+description: Toit driver for the BME680 temperature, humidity, pressure, and gas sensor.
+license: MIT
+url: github.com/nilwes/bme680
+version: 1.1.0
+hash: 264619629f29d2a7fbcb1f4df5134cc268411d13
