@@ -1,0 +1,6 @@
+name: si7006
+description: A low level driver for the Si7006-A20 sensor.
+license: MIT
+url: github.com/toitware/toit-si7006
+version: 0.1.0
+hash: 8ac5a7bff2c875335191eaa8e6d4cd966c3f9157
