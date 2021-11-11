@@ -1,0 +1,7 @@
+name: axp192
+description: Constants and helper functions for driving the AXP192 power control chip.  The
+  chip has an I2C interface and typically uses the ID 0x34.
+license: MIT
+url: github.com/toitware/toit-axp192
+version: 1.0.1
+hash: c43a495d9068a7eaf9a7664a2a451eadb2e91101
