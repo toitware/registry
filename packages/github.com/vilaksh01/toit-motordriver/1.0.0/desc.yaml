@@ -1,0 +1,6 @@
+name: quiic_scmd
+description: Driver for the SparkFun Qwiic motor driver.
+license: MIT
+url: github.com/vilaksh01/toit-motordriver
+version: 1.0.0
+hash: 51acb93c5ccc7554e8275f9a54e6f1b55223cf25
