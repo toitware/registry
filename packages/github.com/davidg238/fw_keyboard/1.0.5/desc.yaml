@@ -1,0 +1,15 @@
+name: keyboard_featherwing_rev_2
+description: 'This library enables the Solder Party [Keyboard FeatherWing Rev 2](https://www.solder.party/docs/keyboard-featherwing/rev2/)
+  to be used with ESP32 FeatherWings running [Toit](https://toit.io/). FeatherWings
+  tested and known to work: - [Adafruit HUZZAH32 - ESP32 Feather Board](https://www.adafruit.com/product/3405)'
+license: MIT
+url: github.com/davidg238/fw_keyboard
+version: 1.0.5
+hash: 675efd4a3efbb350b8492e4cfcda39ef3d8d2b25
+dependencies:
+- url: github.com/toitware/toit-color-tft
+  version: ^1.1.0
+- url: github.com/toitware/toit-pixel-display
+  version: ^1.2.0
+- url: github.com/toitware/toit-pixel-strip
+  version: ^0.0.4
