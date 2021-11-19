@@ -1,0 +1,6 @@
+name: tsl2591
+description: Toit driver for the TSL2591 light sensor.
+license: MIT
+url: github.com/nilwes/TSL2591
+version: 1.0.0
+hash: 215094725ec6027e7456bfe286160defe17c4ecc
