@@ -1,0 +1,10 @@
+name: max31865
+description: Driver for MAX31865 RTD-to-Digital Converter, an SPI-connected digital-to-analog
+  converter, typically used for temperature measurement.
+license: MIT
+url: github.com/toitware/max31865-driver
+version: 1.0.4
+hash: 4124727240808f420c4b1744c92765a5c9106fbf
+dependencies:
+- url: github.com/toitware/toit-resistance-to-temperature
+  version: ^1.0.0
