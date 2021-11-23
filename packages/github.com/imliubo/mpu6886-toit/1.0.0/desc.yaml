@@ -1,0 +1,6 @@
+name: mpu6886
+description: MPU-6886 High-Performance 6-Axis MEMS MotionTracking™ Device.
+license: MIT
+url: github.com/imliubo/mpu6886-toit
+version: 1.0.0
+hash: 8fec0862b1b7414d7c8f1d5757f7d952e3feecce
