@@ -1,0 +1,9 @@
+name: gpio_messaging
+description: Package to trigger GPIO pins through a message.
+license: MIT
+url: github.com/Molbeck/GPIOMessaging
+version: 1.0.1
+hash: a97c47655f6e2b8e5a55a2bcd7214d548d311129
+dependencies:
+- url: github.com/Molbeck/GPIOMessaging
+  version: ^1.0.0
