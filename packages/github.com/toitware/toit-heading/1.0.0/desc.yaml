@@ -1,0 +1,6 @@
+name: heading
+description: Compute the heading given the acceleration and magnetic field.
+license: MIT
+url: github.com/toitware/toit-heading
+version: 1.0.0
+hash: 2e46c5e8f3defba17988f7a27859e0c567741bd5
