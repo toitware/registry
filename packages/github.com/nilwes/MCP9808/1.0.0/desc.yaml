@@ -1,0 +1,6 @@
+name: mcp9808
+description: A Toit driver for the highly accurate MCP9808 temperature sensor.
+license: MIT
+url: github.com/nilwes/MCP9808
+version: 1.0.0
+hash: 32973dc97b5b8404020cace10542a236c4a9579d
