@@ -1,0 +1,6 @@
+name: bme680
+description: Driver for the BME680 temperature, humidity, pressure, and gas sensor.
+license: MIT
+url: github.com/nilwes/bme680
+version: 1.3.0
+hash: a5702528847c6edb6077f66984bba74ce6102c05
