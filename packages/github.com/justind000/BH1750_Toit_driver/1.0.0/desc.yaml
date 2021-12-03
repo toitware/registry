@@ -1,0 +1,6 @@
+name: bh1750
+description: Toit driver for the Rohm Semi BH1750 Ambient Light Sensor.
+license: MIT
+url: github.com/justind000/BH1750_Toit_driver
+version: 1.0.0
+hash: 7d5ed9cedd6482209a746a9823d2c7bbb89f6475
