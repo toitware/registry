@@ -1,0 +1,7 @@
+name: http
+description: HTTP Server and Client for the Toit language. Can be used to run a REST
+  Server and/or Client in Toit.
+license: MIT
+url: github.com/toitlang/pkg-http
+version: 1.1.0
+hash: 9809c577eaf4a294f7f0c22bc6b800fdadc5c716
