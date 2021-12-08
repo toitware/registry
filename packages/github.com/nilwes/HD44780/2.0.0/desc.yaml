@@ -1,0 +1,7 @@
+name: hd44780
+description: Toit driver for the HD44780 LCD controller. The driver works with 16x2
+  LCDs.
+license: MIT
+url: github.com/nilwes/HD44780
+version: 2.0.0
+hash: 94af3ec45b59a04a539cba1e507dd6505d9142c5
