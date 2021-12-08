@@ -1,0 +1,6 @@
+name: scd30_driver
+description: Driver for the [SCD30 sensor](https://www.sensirion.com/en/environmental-sensors/carbon-dioxide-sensors/carbon-dioxide-sensors-scd30/).
+license: MIT
+url: github.com/qvisten999/scd30
+version: 1.0.0
+hash: 11eb2e9e1c87bf5f5d4a54326adc9cff031b85b7
