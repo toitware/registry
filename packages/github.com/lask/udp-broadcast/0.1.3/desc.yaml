@@ -1,0 +1,7 @@
+name: udp_broadcast
+description: Simple client and server implementation for broadcasting values over
+  UDP on the local network.
+license: MIT
+url: github.com/lask/udp-broadcast
+version: 0.1.3
+hash: 04d94107c4adb578bc9586b38c396594dad5a2f3
