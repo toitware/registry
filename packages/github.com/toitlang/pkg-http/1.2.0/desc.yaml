@@ -1,0 +1,7 @@
+name: http
+description: HTTP server and client package for the [Toit language](https://github.com/toitlang/toit).
+  Can be used to run a REST server and/or client on your ESP32 devicew.
+license: MIT
+url: github.com/toitlang/pkg-http
+version: 1.2.0
+hash: 45b010ac3e327db39fdebc6ee1151b37285d0868
