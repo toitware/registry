@@ -1,0 +1,6 @@
+name: toit_hs_sr04
+description: Driver for the HS-SR04 ultrasonic ranging module.
+license: MIT
+url: github.com/lask/toit-hs-sr04
+version: 1.0.0
+hash: 4ba4769e913b4c02aa926eaa38ccb40c3c343a13
