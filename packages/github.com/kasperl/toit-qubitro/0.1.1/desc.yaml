@@ -1,0 +1,12 @@
+name: qubitro
+description: Connect your devices to Qubitro and visualize your data in the Qubitro
+  Portal.
+license: MIT
+url: github.com/kasperl/toit-qubitro
+version: 0.1.1
+hash: 32ac2265e1d34cc8a3933975c8c0778cca2fc9e4
+dependencies:
+- url: github.com/toitware/mqtt
+  version: ^1.1.2
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.0.0
