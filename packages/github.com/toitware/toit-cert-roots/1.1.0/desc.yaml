@@ -1,0 +1,7 @@
+name: certificate_roots
+description: The root certificates needed to connect to HTTPS servers on the public
+  web.
+license: MPL-2.0
+url: github.com/toitware/toit-cert-roots
+version: 1.1.0
+hash: 3e290241aa2f28df9c08fdc77f605b8e75377504
