@@ -1,0 +1,17 @@
+name: m5stack_core2
+description: Useful functions for the M5Stack Core2.  Most of the functionality relates
+  to the AXP192 power control chip that also controls the LCD backlight and reset
+  lines, and the green LED.
+license: MIT
+url: github.com/toitware/toit-m5stack-core2
+version: 1.1.2
+hash: 0f8d1c4fc10861dbd2bb2e10b1f12cbcbd32f9cc
+dependencies:
+- url: github.com/imliubo/ft63xx-toit
+  version: ^1.0.0
+- url: github.com/toitware/toit-axp192
+  version: ^1.0.0
+- url: github.com/toitware/toit-color-tft
+  version: ^1.2.0
+- url: github.com/toitware/toit-pixel-display
+  version: ^1.2.0
