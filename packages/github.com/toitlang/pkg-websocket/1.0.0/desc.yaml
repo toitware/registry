@@ -1,0 +1,9 @@
+name: websocket
+description: Websocket server and client package for the [Toit language](https://github.com/toitlang/toit).
+license: MIT
+url: github.com/toitlang/pkg-websocket
+version: 1.0.0
+hash: bf0fedd82f13c44b8f7221582ba585f35b77f2ef
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^1.4.1
