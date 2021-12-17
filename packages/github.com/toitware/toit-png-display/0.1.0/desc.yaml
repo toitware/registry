@@ -1,0 +1,9 @@
+name: toit_png_display
+description: A pseudo-pixel-display that writes PNG files.
+license: MIT
+url: github.com/toitware/toit-png-display
+version: 0.1.0
+hash: af5ce5abefd014af5254fdc462caf2de25f0405b
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^1.4.0
