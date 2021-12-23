@@ -1,0 +1,7 @@
+name: scd30
+description: Driver for the Sensirion SCD30 sensor module, for monitoring CO2, temperature,
+  and humidity.
+license: MIT
+url: github.com/qvisten999/scd30
+version: 1.0.1
+hash: 1edeabc38feb02e7fb6d7996083bc0a0241db099
