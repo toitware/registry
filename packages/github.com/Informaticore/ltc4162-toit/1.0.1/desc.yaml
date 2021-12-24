@@ -1,0 +1,6 @@
+name: tlc4162_toit
+description: Library to control a TLC4162 Charger IC with toitlang
+license: MIT
+url: github.com/Informaticore/ltc4162-toit
+version: 1.0.1
+hash: 101edc9bc13174752f36a139488fdd0c7aab05ea
