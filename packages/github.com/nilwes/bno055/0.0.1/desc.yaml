@@ -1,0 +1,6 @@
+name: bno055_toit_driver
+description: A Toit driver for the BNO055 sensor
+license: MIT
+url: github.com/nilwes/bno055
+version: 0.0.1
+hash: 58f49dd022ba8b4cb3b21bbbe700f700d778a8a4
