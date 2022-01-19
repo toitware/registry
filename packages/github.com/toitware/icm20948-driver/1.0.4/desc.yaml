@@ -1,0 +1,6 @@
+name: icm20948
+description: Driver for ICM-20948 9-axis devices.
+license: MIT
+url: github.com/toitware/icm20948-driver
+version: 1.0.4
+hash: 480b66c1b82938ee6b268fceb36d5dd26845ff75
