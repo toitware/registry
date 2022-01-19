@@ -1,0 +1,6 @@
+name: modbus
+description: A Modbus Toit client, with support for TCP connections over ethernet.
+license: MIT
+url: github.com/toitlang/pkg-modbus
+version: 1.1.0
+hash: a4344be6b902ec87680f42650bc1e9c4fa4b90b7
