@@ -1,0 +1,6 @@
+name: tar
+description: Toit package to write tar files.
+license: MIT
+url: github.com/toitlang/pkg-tar
+version: 1.0.0
+hash: 72f9f1318b03300657dee12c8cfac72413ca1b56
