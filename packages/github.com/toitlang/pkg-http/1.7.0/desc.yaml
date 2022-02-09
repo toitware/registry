@@ -1,0 +1,6 @@
+name: http
+description: HTTP server and client package for the [Toit language](https://github.com/toitlang/toit).
+license: MIT
+url: github.com/toitlang/pkg-http
+version: 1.7.0
+hash: 821585ec5d44ee1ca9015214d30db0936dd9ae9e
