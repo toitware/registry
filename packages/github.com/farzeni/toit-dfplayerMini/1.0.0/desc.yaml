@@ -1,0 +1,7 @@
+name: dfplayermini
+description: A UART interface to the [DFPlayerMini](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299#target_6)
+  MP3 module.
+license: MIT
+url: github.com/farzeni/toit-dfplayerMini
+version: 1.0.0
+hash: bae3f03eb331d1a26fc04da9dfbd874c34b59076
