@@ -1,0 +1,7 @@
+name: btest
+description: 'A minimal set of test functions, to: - annotate test code structure
+  - test for expected values - test for execution - provide a simple run/fail summary.'
+license: MIT
+url: github.com/davidg238/btest
+version: 1.0.4
+hash: ed91837501ad5dce6c212f38a7f42598135bd43b
