@@ -1,0 +1,6 @@
+name: max7219
+description: Driver for the MAX7219 8x8 matrix display.
+license: MIT
+url: github.com/JWood48/toit-max7219
+version: 1.0.2
+hash: eb1a1da90f5bd336136c9ce7f0257a469d3a67bb
