@@ -1,0 +1,7 @@
+name: packing
+description: Packing and unpacking of binary messages. Supports different endianess
+  and signed/unsigned integers
+license: MIT
+url: github.com/mikkeldamsgaard/pkg-binary-packing
+version: 1.0.0
+hash: ed261c992297972f51ba8f682c4292f34b52819b
