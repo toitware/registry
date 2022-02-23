@@ -1,0 +1,9 @@
+name: rest_server
+description: This package contains a simple easy to use rest server written in toit.
+license: MIT
+url: github.com/mikkeldamsgaard/pkg-rest-server
+version: 1.0.1
+hash: 2326ed4341d4094f0d2482580d3b29be020554b0
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^1.7.1
