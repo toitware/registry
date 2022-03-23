@@ -1,0 +1,6 @@
+name: lsm303d
+description: Driver for the LSM303D accelerometer and magnetometer.
+license: MIT
+url: github.com/toitware/toit-lsm303d
+version: 1.1.0
+hash: a96a29f2865ad2af2f4d3e01dd126c68b81d1c10
