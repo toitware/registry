@@ -1,0 +1,6 @@
+name: msa311
+description: Toit driver for the MSA311 accelerometer.
+license: MIT
+url: github.com/toitware/toit-msa311
+version: 1.0.0
+hash: b8bb4ae997d0e2dc97d40794b36c692ae11a71c9
