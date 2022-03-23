@@ -1,0 +1,6 @@
+name: lis3dh
+description: Toit driver for the LIS3DH accelerometer.
+license: MIT
+url: github.com/nilwes/LIS3DH
+version: 2.0.0
+hash: 6b79d8f91407cac8c1bdb35c4cb6cc43cf4135c0
