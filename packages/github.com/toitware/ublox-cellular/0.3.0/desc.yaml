@@ -1,0 +1,9 @@
+name: u_blox_cellular
+description: Drivers for u-blox cellular modems.
+license: MIT
+url: github.com/toitware/ublox-cellular
+version: 0.3.0
+hash: d71357906b9fdb37a354f3d11b19d77585f5c4a5
+dependencies:
+- url: github.com/toitware/cellular
+  version: ^1.0.11
