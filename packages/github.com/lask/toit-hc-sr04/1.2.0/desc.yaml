@@ -1,0 +1,6 @@
+name: hc_sr04
+description: Driver for the HC-SR04 ultrasonic ranging module.
+license: MIT
+url: github.com/lask/toit-hc-sr04
+version: 1.2.0
+hash: 38349cf1a6cf11daa38354b561aa051d86a07d67
