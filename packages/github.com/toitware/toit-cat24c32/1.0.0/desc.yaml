@@ -1,0 +1,6 @@
+name: cat24c32
+description: Toit driver for the CAT24C32 (or similar) EEPROM.
+license: MIT
+url: github.com/toitware/toit-cat24c32
+version: 1.0.0
+hash: a3531af7d32c129928e83dc5340e1019cfa7b18e
