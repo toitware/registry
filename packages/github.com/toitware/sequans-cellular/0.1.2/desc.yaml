@@ -1,0 +1,9 @@
+name: sequans_cellular
+description: Drivers for Sequans cellular modems.
+license: MIT
+url: github.com/toitware/sequans-cellular
+version: 0.1.2
+hash: e381a4a61a543bb491e86321759b58f085fe29ec
+dependencies:
+- url: github.com/toitware/cellular
+  version: ^1.0.0
