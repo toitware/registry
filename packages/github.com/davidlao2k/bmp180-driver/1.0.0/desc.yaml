@@ -1,0 +1,6 @@
+name: bmp180
+description: Driver for the Bosch BMP180 barometric pressure and temperature sensor
+license: MIT
+url: github.com/davidlao2k/bmp180-driver
+version: 1.0.0
+hash: 845cf49c829265f777011e3e42b217b85232a25f
