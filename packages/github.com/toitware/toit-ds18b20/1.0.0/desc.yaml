@@ -1,0 +1,9 @@
+name: ds18b20
+description: Driver for the DS18B20 temperature sensor.
+license: MIT
+url: github.com/toitware/toit-ds18b20
+version: 1.0.0
+hash: 2cab7c45e0229a19ab6bb55e67fd5bf8a80d95f9
+dependencies:
+- url: github.com/toitware/toit-1-wire
+  version: ^1.1.0
