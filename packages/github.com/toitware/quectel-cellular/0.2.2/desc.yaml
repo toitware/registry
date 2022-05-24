@@ -1,0 +1,13 @@
+name: quectel_cellular
+description: Drivers for quectel modems.
+license: MIT
+url: github.com/toitware/quectel-cellular
+version: 0.2.2
+hash: c2ce6c9c689df87c7e9b70e72314924baf9ee5c8
+dependencies:
+- url: github.com/toitware/cellular
+  version: ^1.1.0
+- url: github.com/toitware/toit-gnss-location
+  version: ^1.0.2
+- url: github.com/toitware/toit-location
+  version: ^1.0.0
