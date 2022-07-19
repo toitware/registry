@@ -1,0 +1,6 @@
+name: tm1637
+description: Driver for the TM1637 4-digit 7-segment display
+license: MIT
+url: github.com/harshkc03/toit-tm1637
+version: 1.0.0
+hash: 895c70dfb63144406c29b545067dcb72fe8334ff
