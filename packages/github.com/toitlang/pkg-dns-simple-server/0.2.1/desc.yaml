@@ -1,0 +1,7 @@
+name: dns_simple_server
+description: This is an extremely simple IPv4 DNS (name) server written in pure Toit
+  that can have a static hosts table and a default answer.
+license: MIT
+url: github.com/toitlang/pkg-dns-simple-server
+version: 0.2.1
+hash: 10476712e5140d40b9f593530aca50045ba41671
