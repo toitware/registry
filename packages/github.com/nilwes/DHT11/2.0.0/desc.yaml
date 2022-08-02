@@ -1,0 +1,6 @@
+name: dht11
+description: Bit-banging diver for the DHT11 sensor.
+license: MIT
+url: github.com/nilwes/DHT11
+version: 2.0.0
+hash: a97022b31e5170fbb64f4fb1b66b6af850fe542a
