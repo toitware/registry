@@ -1,0 +1,6 @@
+name: font_clearly_u
+description: Toit version of the ClearlyU bitmap font donated to the X11 project by
+  New Mexico State University.
+url: github.com/toitlang/pkg-font-x11-clearly-u
+version: 0.1.0
+hash: c7b0899fe2099d0bc734cdac1017482738c945e3
