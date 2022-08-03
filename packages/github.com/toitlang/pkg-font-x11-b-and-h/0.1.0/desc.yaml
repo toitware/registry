@@ -1,0 +1,8 @@
+name: font_clear
+description: Toit version of the bitmap fonts donated to the X11 project by Bigelow
+  and Holmes.  The names of the fonts were originally 'Lucida Sans' and 'Lucida Bright'
+  which are trademarks of Bigelow and Holmes.  The fonts have been modified since
+  they were donated.
+url: github.com/toitlang/pkg-font-x11-b-and-h
+version: 0.1.0
+hash: 664755efbf78d3a55321566324e545052ad3f5c4
