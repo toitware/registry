@@ -3,3 +3,4 @@ description: Driver for the Bosch BMP280 temperature and pressure sensor.
 license: MIT
 url: github.com/harshkc03/bmp280-driver
 version: 1.0.0
+hash: 17824b46f0fd5b9355e616de4bb5603dd6e9f6eb

@@ -4,4 +4,6 @@ description: Drivers for the DHT11 and DHT22 (aka AM2302 or RHT03) humidity and 
 license: MIT
 url: github.com/toitware/toit-dhtxx
 version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.1
 hash: 7d398e042941ecf2d5b310b4b541d23d82a363af
