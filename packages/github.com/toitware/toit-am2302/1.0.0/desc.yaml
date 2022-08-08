@@ -3,6 +3,8 @@ description: Driver for the AM2302 temperature and humidity sensor.
 license: MIT
 url: github.com/toitware/toit-am2302
 version: 1.0.0
+environment:
+  sdk: ^1.7.0
 hash: 8578ceec0663dbcb134e62dbb0218a57a1f79aba
 dependencies:
 - url: github.com/toitware/toit-dhtxx

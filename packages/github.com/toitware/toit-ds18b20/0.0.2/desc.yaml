@@ -3,4 +3,6 @@ description: Driver for the DS18B20 temperature sensor.
 license: MIT
 url: github.com/toitware/toit-ds18b20
 version: 0.0.2
+environment:
+  sdk: ^1.7.0
 hash: 8f323959f56289ab37cd8af68f9d44814b4e7b42

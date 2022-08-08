@@ -3,4 +3,6 @@ description: Implementation of the 1-Wire protocol.
 license: MIT
 url: github.com/toitware/toit-1-wire
 version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.1
 hash: 181448812714bca85d03c1daffc130f0bddacee9

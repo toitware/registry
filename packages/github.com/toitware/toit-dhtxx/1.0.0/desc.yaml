@@ -3,4 +3,6 @@ description: Drivers for the DHT11 and DHT22 humidity and temperature sensors.
 license: MIT
 url: github.com/toitware/toit-dhtxx
 version: 1.0.0
+environment:
+  sdk: ^1.7.0
 hash: 8fa81c714414813fad3bedcd33741f98fb5833cd
