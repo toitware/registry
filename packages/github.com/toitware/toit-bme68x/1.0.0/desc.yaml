@@ -1,0 +1,5 @@
+name: bme68x
+description: Driver for the BME680 and BME688 sensors.
+url: github.com/toitware/toit-bme68x
+version: 1.0.0
+hash: f9a316bdfe93458bd138db94fe56d6644c76d80e
