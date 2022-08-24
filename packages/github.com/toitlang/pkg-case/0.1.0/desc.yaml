@@ -1,0 +1,5 @@
+name: case
+description: Utilities for upper and lower case of Unicode strings.
+url: github.com/toitlang/pkg-case
+version: 0.1.0
+hash: d1ac9c7f598986e0f70b2a16531344213634f5b9
