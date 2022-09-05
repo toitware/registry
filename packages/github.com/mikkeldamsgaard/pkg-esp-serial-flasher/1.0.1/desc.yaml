@@ -1,0 +1,10 @@
+name: esp_serial_flasher
+description: This package implements (parts of) the [esp serial flasher protocol](https://docs.espressif.com/projects/esptool/en/latest/esp32/advanced-topics/serial-protocol.html)
+url: github.com/mikkeldamsgaard/pkg-esp-serial-flasher
+version: 1.0.1
+hash: 1a256ed44a2e86a39882050f3335afac7ae5a829
+dependencies:
+- url: github.com/mikkeldamsgaard/pkg-binary-packing
+  version: ^1.0.0
+- url: github.com/mikkeldamsgaard/pkg-slip
+  version: ^1.0.1
