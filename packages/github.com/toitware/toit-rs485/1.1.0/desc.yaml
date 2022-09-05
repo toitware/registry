@@ -1,0 +1,7 @@
+name: rs485
+description: Support for the RS-485 bus with drivers for the MAX485, SP3485 and similar
+  chips.
+license: MIT
+url: github.com/toitware/toit-rs485
+version: 1.1.0
+hash: 607b0acb6a1e222eb36727c2818b82365b332fa9
