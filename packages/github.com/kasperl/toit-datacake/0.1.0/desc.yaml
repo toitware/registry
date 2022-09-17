@@ -1,0 +1,12 @@
+name: datacake
+description: Connect your devices to Datacake and visualize your data in the Datacake
+  dashboard.
+license: MIT
+url: github.com/kasperl/toit-datacake
+version: 0.1.0
+hash: e5f85efbe528b634023cf1d4703f58127a65be8f
+dependencies:
+- url: github.com/toitware/mqtt
+  version: ^2.0.4
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.3.2
