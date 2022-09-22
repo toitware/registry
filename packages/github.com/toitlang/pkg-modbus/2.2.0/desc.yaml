@@ -1,0 +1,9 @@
+name: modbus
+description: A Modbus Toit client.
+license: MIT
+url: github.com/toitlang/pkg-modbus
+version: 2.2.0
+hash: c17aa9f6e31da40c818adba8c9a451110614c4dc
+dependencies:
+- url: github.com/toitware/toit-rs485
+  version: ^1.0.1
