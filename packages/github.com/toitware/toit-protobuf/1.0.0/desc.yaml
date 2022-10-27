@@ -1,0 +1,6 @@
+name: protobuf
+description: Tools to use protobuf files in Toit.
+license: MIT
+url: github.com/toitware/toit-protobuf
+version: 1.0.0
+hash: d7c81c849b52487b488182e46d56b78fd7dc2438
