@@ -1,0 +1,6 @@
+name: toit_dps368
+description: Library to control a DPS368 Pressure Sensor with toitlang
+license: MIT
+url: github.com/Informaticore/toit-dps368
+version: 1.0.0
+hash: 87835baa086f4aea56f88f2f32a7dbe82ff304e6
