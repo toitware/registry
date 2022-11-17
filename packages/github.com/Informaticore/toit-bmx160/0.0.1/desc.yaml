@@ -1,0 +1,6 @@
+name: toit_bmx160
+description: Library to control a BMX160 9-Axis Sensor with toitlang
+license: MIT
+url: github.com/Informaticore/toit-bmx160
+version: 0.0.1
+hash: f453b15ef1bf9ee97fba4c4cdd92f376c484a544
