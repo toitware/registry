@@ -1,0 +1,7 @@
+name: toit_melody
+description: Library play notes in an easy way with your piezo buzzer. Just enter
+  the notes as a string and play them.
+license: MIT
+url: github.com/Informaticore/toit-melody
+version: 1.0.0
+hash: 48469adf31887f7deb4e57305f7841d92f5102d3
