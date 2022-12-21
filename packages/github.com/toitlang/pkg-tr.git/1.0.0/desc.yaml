@@ -1,0 +1,6 @@
+name: tr
+description: Library similar to the Unix tr utility.
+license: MIT
+url: github.com/toitlang/pkg-tr.git
+version: 1.0.0
+hash: 9e077a90e1c6a58688cecfdfefe9c4b0bfb9179d
