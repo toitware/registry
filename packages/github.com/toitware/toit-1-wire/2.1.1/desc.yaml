@@ -1,0 +1,8 @@
+name: one_wire
+description: Implementation of the 1-Wire protocol.
+license: MIT
+url: github.com/toitware/toit-1-wire
+version: 2.1.1
+environment:
+  sdk: ^2.0.0-alpha.49
+hash: 54b96442d359b86bd5b8888ad07b9c9d38b82884
