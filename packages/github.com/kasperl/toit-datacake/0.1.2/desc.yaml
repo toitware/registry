@@ -1,0 +1,12 @@
+name: datacake
+description: Connect your ESP32s to [Datacake](https://datacake.co/) and visualize
+  your data in the [Datacake dashboard](https://app.datacake.de/).
+license: MIT
+url: github.com/kasperl/toit-datacake
+version: 0.1.2
+hash: 4594dc44ae904695c19b41f6669c9b4d3a18f4ee
+dependencies:
+- url: github.com/toitware/mqtt
+  version: ^2.1.1
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.4.0
