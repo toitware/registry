@@ -1,0 +1,10 @@
+name: slip
+description: This package contains an implementation of SLIP for message encapsulation
+  on a serial line. It works with toit's port library package
+license: MIT
+url: github.com/mikkeldamsgaard/pkg-slip
+version: 1.0.2
+hash: f66f77d6355acc85a704ae78358cb899efeca43d
+dependencies:
+- url: github.com/mikkeldamsgaard/pkg-test
+  version: ^1.0.0
