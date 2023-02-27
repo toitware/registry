@@ -1,0 +1,14 @@
+name: profibus_dp_driver_for_toit
+description: This package supports the Profibus-DP fieldbus protocol. The package
+  allows communication with a passive Profibus-DP enabled device. Certain features
+  are implemented at the moment, such as setting up a slave to achieve the data exchange
+  state. See the [dp.toit](src/dp.toit) and [dp_master.toit](src/dp_master.toit) files
+  to view features and services implemented. The package cannot be used in a multi-master
+  network, as master token sharing has not been implemented yet.
+license: MIT
+url: github.com/Consibio/toit-profibus
+version: 1.0.0
+hash: e5af04284b7c6e71556edf7b1e0e40333227ec6a
+dependencies:
+- url: github.com/toitware/toit-rs485
+  version: ^1.2.0
