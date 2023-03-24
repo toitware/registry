@@ -1,0 +1,8 @@
+name: artemis
+description: This package provides extra functionality for containers managed by Artemis.
+license: MIT
+url: github.com/toitware/toit-artemis
+version: 0.1.0
+environment:
+  sdk: ^2.0.0-alpha.69
+hash: af650b09a354b2f2c68a0d52e918cff68ef9a6b1
