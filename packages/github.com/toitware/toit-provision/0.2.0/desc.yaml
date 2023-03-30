@@ -1,0 +1,12 @@
+name: provision
+description: Package to support provisioning (setting the WiFi credentials) of an
+  ESP32 through BLE using a PC or an Android app.
+license: MIT
+url: github.com/toitware/toit-provision
+version: 0.2.0
+environment:
+  sdk: ^2.0.0-alpha.54
+hash: 657810b0667cc0f490239615f28d4f1353082a44
+dependencies:
+- url: github.com/toitware/toit-protobuf
+  version: ^1.1.1
