@@ -1,7 +1,7 @@
 name: device_bot
 description: A bot running on embedded devices, using OpenAI to interpret commands.
 license: MIT
-url: github.com/floitsch/device-bot
+url: github.com/floitsch/toit-device-bot
 version: 0.1.0
 hash: bc2759dff265dace0fb3c9a0e8281065f06f61c7
 dependencies:
