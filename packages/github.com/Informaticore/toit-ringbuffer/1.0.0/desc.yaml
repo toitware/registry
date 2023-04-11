@@ -1,0 +1,6 @@
+name: toit_ringbuffer
+description: A ringbuffer implementation for toit
+license: MIT
+url: github.com/Informaticore/toit-ringbuffer
+version: 1.0.0
+hash: 2f5d46c9239e107804f36600b79da1dc1e1eeeda
