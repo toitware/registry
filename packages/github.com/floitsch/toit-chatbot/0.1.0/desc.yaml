@@ -1,0 +1,9 @@
+name: chatbot
+description: A chatbot framework using OpenAI.
+license: MIT
+url: github.com/floitsch/toit-chatbot
+version: 0.1.0
+hash: d9a934ed06d67215ad0ec22376bda4f16fd382ab
+dependencies:
+- url: github.com/toitware/toit-openai
+  version: ^0.1.0
