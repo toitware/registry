@@ -1,0 +1,13 @@
+name: ublox_gnss
+description: Driver for the u-blox M* GNSS receivers.
+license: MIT
+url: github.com/toitware/ublox-gnss-driver
+version: 1.1.2
+hash: d324c4e4c14a6afa275f245f2fa84b72e7bb6737
+dependencies:
+- url: github.com/toitware/toit-gnss-location
+  version: ^1.0.2
+- url: github.com/toitware/toit-location
+  version: ^1.0.0
+- url: github.com/toitware/ubx-message
+  version: ^2.1.2
