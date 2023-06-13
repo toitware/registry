@@ -1,0 +1,8 @@
+name: sht20
+description: Driver for the SHT20 Digital Temperature and Humidity Sensor.
+license: MIT
+url: github.com/renebohne/toit-sht20
+version: 1.0.2
+environment:
+  sdk: ^2.0.0-alpha.86
+hash: 49a950ba3e029fa8333ec684e1eb596ac0970838
