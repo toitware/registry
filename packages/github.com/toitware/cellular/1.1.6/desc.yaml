@@ -1,0 +1,9 @@
+name: cellular
+description: Interfaces and base implementation of cellular drivers.
+license: MIT
+url: github.com/toitware/cellular
+version: 1.1.6
+hash: 5ea480a118015d4cdb28d3018934f5fbf2ddc372
+dependencies:
+- url: github.com/toitware/toit-gnss-location
+  version: ^1.0.2
