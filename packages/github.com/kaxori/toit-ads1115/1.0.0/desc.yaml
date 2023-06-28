@@ -1,0 +1,9 @@
+name: ads1115
+description: Driver for the ADS1115, a 4 channel high precision analog to digital
+  converter.
+license: MIT
+url: github.com/kaxori/toit-ads1115
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.86
+hash: 7b9c01c0d1108adc690ec9ab66fbc9756312fabc
