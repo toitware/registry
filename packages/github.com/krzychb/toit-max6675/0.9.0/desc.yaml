@@ -1,0 +1,7 @@
+name: max6675
+description: Toit driver for the MAX6675, a cold junction compensated K-thermocouple
+  to digital converter.
+license: MIT
+url: github.com/krzychb/toit-max6675
+version: 0.9.0
+hash: bee3d3de7e8e7ee86ff4ebe6b784f20248c895d3
