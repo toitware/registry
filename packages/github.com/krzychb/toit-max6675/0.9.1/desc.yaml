@@ -1,0 +1,8 @@
+name: max6675
+description: Toit driver for the MAX6675, a cold junction compensated K-thermocouple
+  to digital converter. The driver implements the reading of data from MAX6675 over
+  ESP32's native SPI interface or using GPIO pin bit banging.
+license: MIT
+url: github.com/krzychb/toit-max6675
+version: 0.9.1
+hash: 10b1a82aea4e19c956d8d58300c0c949d8d1b405
