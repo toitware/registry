@@ -1,0 +1,11 @@
+name: button_handler
+description: Generates different click actions from button state changes.
+license: MIT
+url: github.com/kaxori/Button-Handler
+version: 1.0.4
+environment:
+  sdk: ^2.0.0-alpha.86
+hash: efddb78a0f0ca08046b9e9d150a363845e05987e
+dependencies:
+- url: github.com/kaxori/Action-Repeater
+  version: ^1.0.8
