@@ -1,0 +1,6 @@
+name: jwt
+description: A Toit tool for handling JWTs.
+license: MIT
+url: github.com/Consibio/toit-jwt
+version: 1.2.0
+hash: d7d7b4d1406fdfe09ae8028dcdd125606abc91df
