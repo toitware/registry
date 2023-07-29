@@ -1,0 +1,11 @@
+name: telegram
+description: A Telegram chat client.
+license: MIT
+url: github.com/floitsch/toit-telegram
+version: 0.5.1
+hash: b12e75219533cd86783455ef19704af87ba107d9
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.1.0
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.4.0
