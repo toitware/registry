@@ -1,0 +1,11 @@
+name: discord
+description: Discord bot API.
+license: MIT
+url: github.com/floitsch/toit-discord
+version: 0.3.2
+hash: c45c04efb2a83d13e4370174103621eb07f12011
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.1.0
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.4.0
