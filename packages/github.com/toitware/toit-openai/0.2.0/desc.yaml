@@ -1,0 +1,11 @@
+name: openai
+description: An OpenAI client.
+license: MIT
+url: github.com/toitware/toit-openai
+version: 0.2.0
+hash: e92a6210d5316a0d10378d9be3d49f479e558a46
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.1.0
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.4.0
