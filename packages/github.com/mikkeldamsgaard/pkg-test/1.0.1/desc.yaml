@@ -1,0 +1,16 @@
+name: test
+description: Facilitates running tests for toit code. The main focus for this project
+  is to enable running tests of toit code on the host. For now the test framework
+  is a convenience wrapper to launch tests, provide standardised expected outcome
+  comparison and help with managing input artifacts.
+license: MIT
+url: github.com/mikkeldamsgaard/pkg-test
+version: 1.0.1
+hash: 2120683554f0e4f11d571835904f8e578db8ae58
+dependencies:
+- url: github.com/toitlang/pkg-cli
+  version: ^1.2.0
+- url: github.com/toitlang/pkg-host
+  version: ^1.8.1
+- url: github.com/toitlang/pkg-tar
+  version: ^1.0.0
