@@ -1,7 +1,7 @@
 name: action_repeater
 description: Repeats an action after defined timeout period.
 license: MIT
-url: github.com/kaxori/action-repeater
+url: github.com/kaxori/Action-Repeater
 version: 1.0.8
 environment:
   sdk: ^2.0.0-alpha.86
