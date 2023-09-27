@@ -1,0 +1,11 @@
+name: cellular
+description: This package contains cellular drivers for a selection of cellular modems
+  written in the [Toit language](https://toitlang.org). The drivers are open source
+  under a [permissive license](LICENSE) and they are easy to encapsulate and run in
+  separate containers, providing a high-level network interface for standalone applications.
+license: MIT
+url: github.com/toitware/cellular
+version: 2.1.0
+environment:
+  sdk: ^2.0.0-alpha.108
+hash: 3aa875c73d6605dff5d7f57a54130d3ed4d31769
