@@ -1,0 +1,13 @@
+name: supabase
+description: A Supabase client.
+license: MIT
+url: github.com/toitware/toit-supabase
+version: 0.2.3
+environment:
+  sdk: ^2.0.0-alpha.91
+hash: 459a26f8ee66f6965c8b0c5996a2d141d2b89056
+dependencies:
+- url: github.com/toitlang/pkg-host
+  version: ^1.9.0
+- url: github.com/toitlang/pkg-http
+  version: ^2.1.0
