@@ -1,0 +1,8 @@
+name: cellular
+description: Cellular drivers for a selection of modems.
+license: MIT
+url: github.com/toitware/cellular
+version: 2.1.10
+environment:
+  sdk: ^2.0.0-alpha.108
+hash: a2b641e2da596ac1fd58b5fd5ce5e26d5e501c35
