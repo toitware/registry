@@ -1,0 +1,8 @@
+name: watchdog
+description: Watchdog support for containers.
+license: MIT
+url: github.com/toitware/toit-watchdog
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.118
+hash: 557d70d87cd9cb415f2c104d73302766c836e5a1
