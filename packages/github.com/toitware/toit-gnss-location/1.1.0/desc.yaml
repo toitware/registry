@@ -1,0 +1,10 @@
+name: gnss_location
+description: Support for locations produced by a Global Navigation Satellite Systems
+  (GNSS).
+license: MIT
+url: github.com/toitware/toit-gnss-location
+version: 1.1.0
+hash: 24c37267ac06e05a13552ff9911b6916f51f74ce
+dependencies:
+- url: github.com/toitware/toit-location
+  version: ^1.0.0
