@@ -1,0 +1,6 @@
+name: location
+description: Support for locations in a geographical coordinate system.
+license: MIT
+url: github.com/toitware/toit-location
+version: 1.1.0
+hash: bf2c8cbd54d6d7d185948f67240e921c1b0d7d54
