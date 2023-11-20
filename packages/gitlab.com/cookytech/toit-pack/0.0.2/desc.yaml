@@ -1,6 +1,6 @@
 name: toit-pack
 description: Helper package built at Cookytech Technologies
 license: MIT
-url: gitlab.com/cookytech/toit-pack.git
+url: gitlab.com/cookytech/toit-pack
 version: 0.0.2
 hash: 9db4a297667d46bacd5e6ce61e7db97046c101ad

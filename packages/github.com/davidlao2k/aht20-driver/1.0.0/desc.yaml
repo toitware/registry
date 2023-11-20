@@ -1,6 +1,6 @@
 name: aht20_driver
 description: Driver for ASAIR AHT10/AHT20/AHT25 temperature and humidity sensors
 license: MIT
-url: github.com/davidlao2k/aht20-driver.git
+url: github.com/davidlao2k/aht20-driver
 version: 1.0.0
 hash: 5a1b93b3183b0520f4b30522e0c489a0589f7897
