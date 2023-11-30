@@ -1,0 +1,8 @@
+name: packing
+description: Allowing to construct and read binary streams
+license: MIT
+url: github.com/mikkeldamsgaard/pkg-binary-packing
+version: 1.1.1
+environment:
+  sdk: ^2.0.0-alpha.123
+hash: 04f68a4288c5363489e9bace61adc48fbcba245a
