@@ -1,0 +1,15 @@
+name: test
+description: Test framework for Toit, focusing on host-base unit tests.
+license: MIT
+url: github.com/mikkeldamsgaard/pkg-test
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.120
+hash: 77903612139a85c3f3e4e71cfd82de3013af72dc
+dependencies:
+- url: github.com/toitlang/pkg-cli
+  version: ^1.2.0
+- url: github.com/toitlang/pkg-host
+  version: ^1.8.1
+- url: github.com/toitlang/pkg-tar
+  version: ^1.0.0
