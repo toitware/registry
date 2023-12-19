@@ -1,0 +1,11 @@
+name: pixel_display
+description: Common code to drive all pixel-based displays.
+license: MIT
+url: github.com/toitware/toit-pixel-display
+version: 2.2.0
+environment:
+  sdk: ^2.0.0-alpha.121
+hash: b7a0d7fe4a88a450389af3960bf12799f2a52ab5
+dependencies:
+- url: github.com/toitware/toit-png-tools
+  version: ^1.0.0
