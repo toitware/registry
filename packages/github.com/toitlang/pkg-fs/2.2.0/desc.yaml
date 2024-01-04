@@ -1,0 +1,11 @@
+name: fs
+description: Filesystem and XDG functions, dealing with Windows and Unix paths.
+license: MIT
+url: github.com/toitlang/pkg-fs
+version: 2.2.0
+environment:
+  sdk: ^2.0.0-alpha.120
+hash: 863280c5c62ac259d16d0d3b24df21209b461b14
+dependencies:
+- url: github.com/toitlang/pkg-host
+  version: ^1.11.0
