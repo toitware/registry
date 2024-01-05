@@ -1,0 +1,11 @@
+name: e-paper
+description: A driver for some popular E-paper displays.
+license: MIT
+url: github.com/toitware/toit-e-paper
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.118
+hash: 1135d59f75924dfdfbbff75ebe6bae377e45431e
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.1.0
