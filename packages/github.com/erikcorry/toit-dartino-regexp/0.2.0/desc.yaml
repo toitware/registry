@@ -1,0 +1,8 @@
+name: dartino_regexp
+description: A port of Dartino's regexp engine to Toit.
+url: github.com/erikcorry/toit-dartino-regexp
+version: 0.2.0
+hash: 63d0a0c1451d35fb149db823e6b38ee1bd0a1a1b
+dependencies:
+- url: github.com/toitlang/pkg-case
+  version: ^0.2.0
