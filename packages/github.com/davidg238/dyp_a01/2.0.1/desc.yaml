@@ -1,0 +1,6 @@
+name: dyp_a01
+description: A driver for the dyp_a01 ultrasonic sensor
+license: MIT
+url: github.com/davidg238/dyp_a01
+version: 2.0.1
+hash: cbc3b095649468cf4dc9a1908df1c86c8993b526
