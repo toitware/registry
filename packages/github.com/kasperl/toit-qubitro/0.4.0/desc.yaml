@@ -1,0 +1,13 @@
+name: qubitro
+description: Qubitro connector for the ESP32.
+license: MIT
+url: github.com/kasperl/toit-qubitro
+version: 0.4.0
+hash: 51dce189860a3d8224ed8ea233c5382b35358845
+dependencies:
+- url: github.com/toitware/mqtt
+  version: ^2.7.0
+- url: github.com/toitware/toit-artemis
+  version: ^0.8.3
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.6.1
