@@ -1,0 +1,8 @@
+name: host
+description: Host libraries for the Toit platform.
+license: MIT
+url: github.com/toitlang/pkg-host
+version: 1.14.1
+environment:
+  sdk: ^2.0.0-alpha.128
+hash: da453fb59f7ef3d37f39e4b438495f7c16614733
