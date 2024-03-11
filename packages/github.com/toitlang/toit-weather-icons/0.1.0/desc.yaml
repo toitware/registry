@@ -1,0 +1,10 @@
+name: weather_icons
+description: Icons from https://github.com/erikflowers/weather-icons
+url: github.com/toitlang/toit-weather-icons
+version: 0.1.0
+environment:
+  sdk: ^2.0.0-alpha.121
+hash: 2103b543d91fa8e003f4df7cb40fe524db8d75a9
+dependencies:
+- url: github.com/toitware/toit-png-tools
+  version: ^1.0.0
