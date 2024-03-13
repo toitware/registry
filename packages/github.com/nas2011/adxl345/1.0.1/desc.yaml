@@ -1,0 +1,6 @@
+name: ADXL345
+description: Minimal driver for ADXL345.
+license: MIT
+url: github.com/nas2011/adxl345
+version: 1.0.1
+hash: 063129b905a75414d5fe370bbda86ca08cca775b
