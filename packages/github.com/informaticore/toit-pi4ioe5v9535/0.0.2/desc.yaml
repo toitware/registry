@@ -1,0 +1,6 @@
+name: pi4ioex
+description: Library to control a PI4IOE5V9535 16-Bit I2C GPIO-Expander with toitlang
+license: MIT
+url: github.com/informaticore/toit-pi4ioe5v9535
+version: 0.0.2
+hash: 95f9ae992b3edc8034e00e32ced1a75bd429761e
