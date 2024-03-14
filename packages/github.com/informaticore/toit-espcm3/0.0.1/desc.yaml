@@ -1,0 +1,9 @@
+name: espcm3
+description: Library to control make it easier to controll an ESP-CM3-S2 or S3 Board
+license: MIT
+url: github.com/informaticore/toit-espcm3
+version: 0.0.1
+hash: 97d362e2fe9d6fd30b1c2e77237da65809f1c764
+dependencies:
+- url: github.com/informaticore/toit-pi4ioe5v9535
+  version: ^0.0.1
