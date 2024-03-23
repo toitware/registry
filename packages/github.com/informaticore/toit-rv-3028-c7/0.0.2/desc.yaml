@@ -1,0 +1,6 @@
+name: rv-3028-c7
+description: Library to control a RV-3028-C7 RTC
+license: MIT
+url: github.com/informaticore/toit-rv-3028-c7
+version: 0.0.2
+hash: f5aa6521e959ab7b5f73acaaa4fae0ad25edfa49
