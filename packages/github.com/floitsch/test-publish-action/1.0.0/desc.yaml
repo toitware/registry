@@ -1,0 +1,5 @@
+name: tmp-test-publish-action
+description: Package to test the publish action
+url: github.com/floitsch/test-publish-action
+version: 1.0.0
+hash: be4f306609b1b5b4564bdfa10da40deadfa143ab
