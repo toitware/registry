@@ -1,0 +1,8 @@
+name: mqtt
+description: An MQTT v3.1.1 Toit client, with support for QoS 0 and 1.
+license: MIT
+url: github.com/toitware/mqtt
+version: 2.8.0
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: 962d5a25a5304d71effb5e573cf145a45bcf1ef3
