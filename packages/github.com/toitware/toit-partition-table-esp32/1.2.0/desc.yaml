@@ -1,0 +1,8 @@
+name: partition-table
+description: Tools to manipulate the partition table of an ESP32.
+license: MIT
+url: github.com/toitware/toit-partition-table-esp32
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: 839d191d419caf43df86ce67c3c596e92f350bda
