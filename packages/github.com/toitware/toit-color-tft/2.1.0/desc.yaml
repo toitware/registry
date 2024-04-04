@@ -1,0 +1,12 @@
+name: color_tft
+description: Driver for 18 bit TFT color displays based on the ILI9341, ILI9488, ST7789V,
+  or ST7735 display controllers.
+license: MIT
+url: github.com/toitware/toit-color-tft
+version: 2.1.0
+environment:
+  sdk: ^2.0.0-alpha.121
+hash: 8ae2796488705df1fc63c21a3ff435c942de6935
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.0.0
