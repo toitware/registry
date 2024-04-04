@@ -1,0 +1,8 @@
+name: ntp
+description: NTP (Network Time Protocol) client.
+license: MIT
+url: github.com/toitlang/pkg-ntp
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: e69bb1abc0d3d4aa7642eec3360e52744e4d011d
