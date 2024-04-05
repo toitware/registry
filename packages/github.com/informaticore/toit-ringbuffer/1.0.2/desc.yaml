@@ -1,0 +1,7 @@
+name: ringbuffer
+description: A RingBuffer implementation as a data structure that stores a fixed number
+  of elements and overwrites the oldest elements once the maximum size is reached.
+license: MIT
+url: github.com/informaticore/toit-ringbuffer
+version: 1.0.2
+hash: 3b2ef66110e480e2314ba193801d8a4029096a3f
