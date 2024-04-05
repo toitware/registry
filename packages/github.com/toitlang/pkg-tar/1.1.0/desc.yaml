@@ -1,0 +1,8 @@
+name: tar
+description: Toit package to manipulate tar files.
+license: MIT
+url: github.com/toitlang/pkg-tar
+version: 1.1.0
+environment:
+  sdk: ^v2.0.0-alpha.144
+hash: c5d75bdb3b301099b7037bdf86d424177770ba58
