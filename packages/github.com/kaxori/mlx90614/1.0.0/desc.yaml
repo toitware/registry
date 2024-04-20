@@ -1,0 +1,6 @@
+name: MLX90614
+description: Minimal driver for MLX90614.
+license: MIT
+url: github.com/kaxori/mlx90614
+version: 1.0.0
+hash: 831e5726048987995a8582ea962821eeb5ca00fc
