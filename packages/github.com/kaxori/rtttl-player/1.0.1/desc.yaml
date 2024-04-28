@@ -1,0 +1,7 @@
+name: rtttl-player
+description: The player converts a music string in "Ring Tone Text Transfer Language"
+  code into pitch and duration.
+license: MIT
+url: github.com/kaxori/rtttl-player
+version: 1.0.1
+hash: b864402551512831ea21381fb9f9e7357177e04d
