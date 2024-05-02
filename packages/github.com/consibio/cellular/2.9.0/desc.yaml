@@ -1,0 +1,8 @@
+name: cellular
+description: Cellular drivers for a selection of modems.
+license: MIT
+url: github.com/consibio/cellular
+version: 2.9.0
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: e24062baff200f3eed8fba0d134ffb96eb42dd29
