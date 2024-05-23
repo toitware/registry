@@ -1,0 +1,8 @@
+name: hd44780
+description: Driver for the HD44780 LCD controller.
+license: MIT
+url: github.com/nilwes/hd44780
+version: 3.0.1
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: 89214f3a8f1ee82e5c47dcbeae61b8e9ee6b7840
