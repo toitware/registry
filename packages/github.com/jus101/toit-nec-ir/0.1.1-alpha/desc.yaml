@@ -1,0 +1,7 @@
+name: nec_ir
+description: A quick-n-dirty implementation of the IR NEC protocol using the Toit
+  RMT standard library. Impress your friends by turning their TV off with an ESP32!
+license: MIT
+url: github.com/jus101/toit-nec-ir
+version: 0.1.1-alpha
+hash: 972fce59145f5a5d32b84a2d6eef58101032764c
