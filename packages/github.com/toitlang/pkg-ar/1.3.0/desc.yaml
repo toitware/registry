@@ -1,0 +1,8 @@
+name: ar
+description: Toit package for reading and writing 'ar' (archive) files.
+license: MIT
+url: github.com/toitlang/pkg-ar
+version: 1.3.0
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: d0f3890e5c641bee93fa337fbea0710a0a72710c
