@@ -1,0 +1,6 @@
+name: ignore
+description: Ignore this package.
+license: MIT
+url: github.com/toitware/toit-ignore
+version: 0.0.3
+hash: 43895c4ace2892a6798ab7cb769e1d94d003187b
