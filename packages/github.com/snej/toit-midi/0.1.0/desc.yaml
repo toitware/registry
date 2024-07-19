@@ -1,0 +1,6 @@
+name: MIDI
+description: MIDI (Musical Instrument Digital Interface) I/O
+license: Apache-2.0
+url: github.com/snej/toit-midi
+version: 0.1.0
+hash: c22a8e874c9bac20bc4d51ad2c32341fb9a524f6
