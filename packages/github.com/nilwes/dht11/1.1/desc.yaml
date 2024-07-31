@@ -1,6 +1,0 @@
-name: dht11
-description: A Toit driver for the DHT11 temperature and humidity sensor.
-license: MIT
-url: github.com/nilwes/DHT11
-version: "1.1"
-hash: 4d00e1ba016e53026b2f5e989f8bafad9c6ca847
