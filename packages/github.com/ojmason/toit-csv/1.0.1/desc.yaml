@@ -1,0 +1,7 @@
+name: csv
+description: Basic functions to parse CSV files from data supplied in ByteArrays.
+url: github.com/ojmason/toit-csv
+version: 1.0.1
+environment:
+  sdk: ^2.0.0-alpha.94
+hash: 1763f2f4c9e3ca6b72ef72538b592d1db1fb1874
