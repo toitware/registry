@@ -1,5 +1,0 @@
-name: csv
-description: Basic functions to parse CSV files from data supplied in ByteArrays.
-url: github.com/ojmason/toit-csv
-version: "1.0"
-hash: 9cf0916c890b15abf04309e05ba844d8c9f27ca0
