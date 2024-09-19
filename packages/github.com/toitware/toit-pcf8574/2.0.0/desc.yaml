@@ -1,0 +1,6 @@
+name: pcf8574
+description: Driver for the PCF5874 and PCF5874A 8 channel I2C I/O expander.
+license: MIT
+url: github.com/toitware/toit-pcf8574
+version: 2.0.0
+hash: ef8e27ac771ffac2695bdd255993a73da26c4c2c
