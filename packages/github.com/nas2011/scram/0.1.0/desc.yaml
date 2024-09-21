@@ -1,0 +1,8 @@
+name: scram
+description: A package for SCRAM authentication.
+url: github.com/nas2011/scram
+version: 0.1.0
+hash: 31ff8a1310746fa16c7641a9232d97eb44fa72c3
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.8.0
