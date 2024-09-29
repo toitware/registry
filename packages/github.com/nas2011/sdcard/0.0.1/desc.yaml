@@ -1,0 +1,9 @@
+name: sdcard
+description: Convenience features for working with SD cards in Toit
+license: MIT
+url: github.com/nas2011/sdcard
+version: 0.0.1
+hash: e62bff47b46c6e964453372cb73a6420f1d0bd00
+dependencies:
+- url: github.com/toitlang/pkg-host
+  version: ^1.15.1
