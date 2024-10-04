@@ -1,0 +1,8 @@
+name: bno055
+description: Driver for the Bosch BNO055 sensor.
+license: MIT
+url: github.com/nilwes/bno055
+version: 1.0.0
+environment:
+  sdk: ^v2.0.0-alpha.100
+hash: 894cf4860ae40bef553fdaeed6d43c9c5342038f
