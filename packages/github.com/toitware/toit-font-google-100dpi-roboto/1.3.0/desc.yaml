@@ -1,0 +1,8 @@
+name: roboto
+description: Roboto sans-serif fonts for Toit devices.
+license: Apache-2.0
+url: github.com/toitware/toit-font-google-100dpi-roboto
+version: 1.3.0
+environment:
+  sdk: ^2.0.0-alpha.100
+hash: 833bf8b95938537c761e122026b6e62b03cb0762
