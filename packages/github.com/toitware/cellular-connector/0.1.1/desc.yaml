@@ -1,0 +1,9 @@
+name: cellular-connector
+description: Strategy for connecting with a cellular modem.
+license: MIT
+url: github.com/toitware/cellular-connector
+version: 0.1.1
+hash: 56659c9176b91f2553e268de3a13afad66e9a630
+dependencies:
+- url: github.com/toitware/cellular
+  version: ^1.0.0
