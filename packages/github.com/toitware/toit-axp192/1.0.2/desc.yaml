@@ -1,0 +1,6 @@
+name: axp192
+description: Constants and helper functions for driving the AXP192 power control chip.
+license: MIT
+url: github.com/toitware/toit-axp192
+version: 1.0.2
+hash: 0135163c632951d27aa4eb26043dd10bce90b5a3
