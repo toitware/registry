@@ -1,0 +1,11 @@
+name: desktop
+description: Cross platform functionality, based on XDG (Cross-Desktop Group) specifications.
+license: MIT
+url: github.com/toitlang/pkg-desktop
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.120
+hash: 9c36fbb2cb28706705d9a21158c2fc9345108f6c
+dependencies:
+- url: github.com/toitlang/pkg-host
+  version: ^1.15.3
