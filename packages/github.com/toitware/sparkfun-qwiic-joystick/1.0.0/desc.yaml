@@ -1,6 +1,0 @@
-name: sparkfun_joystick
-description: Driver for the Sparkfun Qwiic Joystick.
-license: MIT
-url: github.com/toitware/sparkfun-qwiic-joystick
-version: 1.0.0
-hash: fac8f153204fce82f05bd38c10bf086b4d165382
