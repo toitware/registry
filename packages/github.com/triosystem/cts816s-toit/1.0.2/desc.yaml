@@ -1,0 +1,8 @@
+name: cst816s-toit
+description: Library for the CST816S capacitive touch screen IC
+license: MIT
+url: github.com/triosystem/cts816s-toit
+version: 1.0.2
+environment:
+  sdk: ^2.0.0-alpha.170
+hash: 5af1692d69ae6aa00b843197a4cdd9fba554f983
