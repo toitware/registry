@@ -1,0 +1,11 @@
+name: gc9a01-tft
+description: Driver for the GC9A01 18 bit TFT color display controller.
+license: MIT
+url: github.com/triosystem/gc9a01-tft
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.121
+hash: 0bf9515fdb6286c8737cf0da6150d766669fd6bf
+dependencies:
+- url: github.com/toitware/toit-color-tft
+  version: ^2.1.0
