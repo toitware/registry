@@ -1,0 +1,10 @@
+name: dhtxx
+description: |
+  Drivers for the DHT11 and DHT22 (aka AM2302 or RHT03) humidity and temperature sensors.
+  Other compatible sensors: DHT12, KY-015, DHT33, AM2320, AM2321, or AM2322.
+license: MIT
+url: github.com/toitware/toit-dhtxx
+version: 1.5.0
+environment:
+  sdk: ^2.0.0-alpha.150
+hash: 8e7d46610c690efd8d23de2f6aaeb239274a762d
