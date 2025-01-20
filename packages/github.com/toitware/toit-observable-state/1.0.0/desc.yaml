@@ -1,0 +1,8 @@
+name: observable-state
+description: Service- and resource-based observable state support for containers.
+license: MIT
+url: github.com/toitware/toit-observable-state
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.161
+hash: 346b4afe4821d81cbd619b901c7ae61e4b9efa6d
