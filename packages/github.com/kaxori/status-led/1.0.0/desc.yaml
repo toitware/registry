@@ -1,0 +1,6 @@
+name: status-led
+description: Visualise system state with animated LED.
+license: MIT
+url: github.com/kaxori/status-led
+version: 1.0.0
+hash: 4d0fd7eec6b2d6b174ef80c97ddd1a19dfce75e7
