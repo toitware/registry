@@ -1,0 +1,10 @@
+name: quantumcoinflip
+description: Provides a quantum coin flip service, using quantumcoinflip.com
+url: github.com/addshore/toit-quantumcoinflip
+version: 1.0.0
+hash: ead4f4c6f53b0204ea289f0236039fe94cc71197
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.8.0
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.8.0
