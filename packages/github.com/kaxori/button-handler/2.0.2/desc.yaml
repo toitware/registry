@@ -1,0 +1,8 @@
+name: button_handler
+description: Supports push button handling in blocking and non-blocking mode.
+license: MIT
+url: github.com/kaxori/button-handler
+version: 2.0.2
+environment:
+  sdk: ^2.0.0-alpha.174
+hash: 59eef89b0f6d674a8c92e6f83ef058357981a84f
