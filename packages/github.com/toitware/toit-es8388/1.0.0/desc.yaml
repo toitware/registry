@@ -1,0 +1,8 @@
+name: es8388
+description: A driver for the ES8388 audio codec.
+license: MIT
+url: github.com/toitware/toit-es8388
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.174.1
+hash: 77bf1396831b321f082743962f2e9b2f2714f6f4
