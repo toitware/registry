@@ -1,0 +1,6 @@
+name: cs5529
+description: Driver for the Cirrus Logic CS5529 ADC.
+license: MIT
+url: github.com/brueningf/cs5529-driver
+version: 0.1.0
+hash: 024f8579cf62b200157c8fc4a20ad994945316b1
