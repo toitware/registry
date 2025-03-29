@@ -1,0 +1,11 @@
+name: ds3231
+description: Ds3231 realtime clock driver
+license: MIT
+url: github.com/pkarsy/toit-ds3231
+version: 0.8.2
+environment:
+  sdk: ^v2.0.0-alpha.176
+hash: 2f9836e4abe47835b08a7a2a1871395c3c6fade5
+dependencies:
+- url: github.com/pkarsy/toit-ds3231
+  version: ^0.8.1
