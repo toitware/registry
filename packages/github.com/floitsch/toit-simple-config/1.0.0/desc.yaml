@@ -1,0 +1,11 @@
+name: simple-config
+description: Simple configuration management.
+license: MIT
+url: github.com/floitsch/toit-simple-config
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.170
+hash: 0d40e016cfeef59600a2d898c7525d249aa3b83e
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.9.0
