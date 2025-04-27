@@ -1,0 +1,17 @@
+name: m5stack_dial
+description: Useful functions for the M5Stack Dial.
+license: MIT
+url: github.com/aschober/toit-m5stack-dial
+version: 1.0.0
+hash: 260e496420361ef2f15b6247567bffbabfc3b913
+dependencies:
+- url: github.com/aschober/toit-pcf8563
+  version: ^1.0.0
+- url: github.com/imliubo/ft63xx-toit
+  version: ^1.0.1
+- url: github.com/toitware/toit-color-tft
+  version: ^2.1.0
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.11.0
+- url: github.com/triosystem/gc9a01-tft
+  version: ^1.0.1
