@@ -1,0 +1,6 @@
+name: pcf8563
+description: Useful functions for the PCF8563 RTC real-time clock.
+license: MIT
+url: github.com/aschober/toit-pcf8563
+version: 1.0.0
+hash: 696f0de4875c7d70ac6b8623556b9e7f23cb2b30
