@@ -1,0 +1,8 @@
+name: sensors
+description: Generic sensor APIs for applications and drivers.
+license: MIT
+url: github.com/toitware/toit-sensors
+version: 0.0.1
+environment:
+  sdk: ^2.0.0-alpha.150
+hash: 8b76db6e4c08bd0d19f4d6bbc9eb235a4039f34b
