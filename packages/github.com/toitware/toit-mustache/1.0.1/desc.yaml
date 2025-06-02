@@ -1,0 +1,6 @@
+name: mustache
+description: A parser and renderer for the Mustache template system.
+license: MIT
+url: github.com/toitware/toit-mustache
+version: 1.0.1
+hash: 5ea517435f5b85864c36f69f87b0dc0a46fc3eaa
