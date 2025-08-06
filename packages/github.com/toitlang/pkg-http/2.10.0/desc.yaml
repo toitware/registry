@@ -1,0 +1,8 @@
+name: http
+description: An HTTP server and client.
+license: MIT
+url: github.com/toitlang/pkg-http
+version: 2.10.0
+environment:
+  sdk: ^2.0.0-alpha.170
+hash: d8ae3a9bfe56f08527b1f8b5db89c6c37aff631e
