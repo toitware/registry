@@ -1,0 +1,8 @@
+name: bh1750
+description: Support for bh1750 - an I2C based ambient light sensor IC.
+license: MIT
+url: github.com/milkmansson/toit-bh1750
+version: 0.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: a1a6d98d676911c4993f8163c4db9c3e9b46e0ad
