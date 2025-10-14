@@ -1,0 +1,8 @@
+name: max1704x
+description: Support for MAX17048/MAX17049 I2C base LiPo battery gauge IC.
+license: MIT
+url: github.com/milkmansson/toit-max1704x
+version: 0.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: e7d3659ee7f9d0f33228ee11175ab8d11a08c274
