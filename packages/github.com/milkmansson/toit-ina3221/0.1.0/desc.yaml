@@ -1,0 +1,8 @@
+name: ina3221
+description: Support for I2C INA3221 3 channel current/voltage measuring IC.
+license: MIT
+url: github.com/milkmansson/toit-ina3221
+version: 0.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: 60aa2ea805ed2793f07a3bf5a0be6338f1a1d798
