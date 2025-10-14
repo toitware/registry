@@ -1,0 +1,8 @@
+name: husb238
+description: Support for Hynetek HUSB238 I2C USB-C PD Sink/Trigger.
+license: MIT
+url: github.com/milkmansson/toit-husb238
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: 9840f0aed52669385bcaafcb357c40be316fc9ad
