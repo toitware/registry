@@ -1,0 +1,11 @@
+name: tp4057
+description: Support for TP4057 LiPo battery charger, when connected to an ADC pin
+license: MIT
+url: github.com/milkmansson/toit-tp4057
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: b908293b2a5f55ece1f5eb54bcf4572d4fdd9a50
+dependencies:
+- url: github.com/milkmansson/toit-ema
+  version: ^1.2.0
