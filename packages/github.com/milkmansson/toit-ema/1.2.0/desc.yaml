@@ -1,0 +1,8 @@
+name: ema
+description: Implementation of an Exponential Moving Average function.
+license: MIT
+url: github.com/milkmansson/toit-ema
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: 3acf28cde4c2b99c36424d23663d58d1479dc316
