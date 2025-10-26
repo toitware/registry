@@ -1,0 +1,12 @@
+name: mpu6050
+description: Support for the InvenSense MPU6000 and MPU6050 I2C MEMS Gyroscope and
+  Accelerometer.
+license: MIT
+url: github.com/milkmansson/toit-mpu6050
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: cfb217d0ebc8587f72db28547401919fb78457aa
+dependencies:
+- url: github.com/milkmansson/toit-ema
+  version: ^1.0.0
