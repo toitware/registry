@@ -1,0 +1,8 @@
+name: rcwl0516
+description: Basic Support for RCWL0516 Mocrowave Doppler Radar moement sensor.
+license: MIT
+url: github.com/milkmansson/toit-rcwl0516
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: 9a2e85689a33c3d8fd0163e1bc4b2acc52a0b32a
