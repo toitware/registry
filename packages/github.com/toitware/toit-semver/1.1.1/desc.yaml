@@ -1,0 +1,8 @@
+name: semver
+description: Semantic versioning.
+license: MIT
+url: github.com/toitware/toit-semver
+version: 1.1.1
+environment:
+  sdk: ^2.0.0-alpha.189
+hash: 74e61f2cbba360e8a13c004842bdc1a74c16c3c3
