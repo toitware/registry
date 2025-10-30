@@ -1,0 +1,6 @@
+name: json-pointer
+description: JSON pointer support.
+license: MIT
+url: github.com/toitware/toit-json-pointer
+version: 1.0.0
+hash: 675be26561f748f3aec146c0d6faa4cb66dfe9e5
