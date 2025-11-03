@@ -1,0 +1,8 @@
+name: ccs811
+description: Toit CCS811 CO2 and VOC sensor driver.
+license: MIT
+url: github.com/milkmansson/toit-ccs811
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: b3d9d055511c96df3ae6f0c4f3d9def867503a88
