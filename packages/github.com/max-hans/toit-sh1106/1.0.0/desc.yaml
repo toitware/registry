@@ -1,0 +1,11 @@
+name: sh1106
+description: Driver for 1-bit OLED displays using the SH1106 driver
+license: MIT
+url: github.com/max-hans/toit-sh1106
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.121
+hash: 3536b42b334c8ae2244b41342afd3b47cb1cf846
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.1.0
