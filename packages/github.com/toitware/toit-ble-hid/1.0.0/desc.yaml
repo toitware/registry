@@ -1,0 +1,8 @@
+name: ble-hid
+description: a BLE HID (Human Interface Device) driver.
+license: MIT
+url: github.com/toitware/toit-ble-hid
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.189
+hash: e0dc5432286f6c76e3d0ec1c8b0c5c40d630fee7
