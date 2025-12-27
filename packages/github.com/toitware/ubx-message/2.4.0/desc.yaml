@@ -1,0 +1,9 @@
+name: ubx-message
+description: Support for UBX messages from the UBX data protocol used by ublox GNSS
+  receivers in the Max-M* series.
+license: MIT
+url: github.com/toitware/ubx-message
+version: 2.4.0
+environment:
+  sdk: ^2.0.0-alpha.144
+hash: 62624940bc2f5e2893866de5ddd27a51190a652f
