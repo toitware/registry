@@ -1,0 +1,8 @@
+name: ina226
+description: Support for the TI INA226 I2C current/voltage measuring IC.
+license: MIT
+url: github.com/milkmansson/toit-ina226
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: d7e9666494858a38838079ffefa59a16c28ef16d
