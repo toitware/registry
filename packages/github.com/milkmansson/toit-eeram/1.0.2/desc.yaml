@@ -1,0 +1,9 @@
+name: eeram
+description: Support for Microchip 47L04/47C04/47L16/47C16 I2C based, Flash EEPROM
+  backed, SRAM.
+license: MIT
+url: github.com/milkmansson/toit-eeram
+version: 1.0.2
+environment:
+  sdk: ^2.0.0-alpha.189
+hash: c1cdd2c7fe17f3f3ad772ef1307340b029549f16
