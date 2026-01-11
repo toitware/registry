@@ -1,0 +1,9 @@
+name: ak0991x
+description: Driver for AK09916 and sibling magnetometers (digital compass) as built
+  in to ICM20948 9-axis devices.
+license: MIT
+url: github.com/milkmansson/toit-ak0991x
+version: 1.1.0
+environment:
+  sdk: ^v2.0.0-alpha.189
+hash: e9492dc812bfaafe7127bbfd9876a8f8ef4c3348
