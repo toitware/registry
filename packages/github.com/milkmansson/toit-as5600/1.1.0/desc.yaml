@@ -1,0 +1,8 @@
+name: as5600
+description: Support for the AMS AS5600 I2C Magnetic Rotation Hall-Effect sensor.
+license: MIT
+url: github.com/milkmansson/toit-as5600
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: 6c654f7eb201e0d3e428158776c61af306cabe19
