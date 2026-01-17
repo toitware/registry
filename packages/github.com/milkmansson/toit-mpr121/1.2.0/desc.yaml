@@ -1,0 +1,8 @@
+name: mpr121
+description: Support for I2C MPR121 12 channel proximity/sensing module
+license: MIT
+url: github.com/milkmansson/toit-mpr121
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.189
+hash: 58656f5ab14588273fb12377129600b5ccc7cec1
