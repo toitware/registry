@@ -1,0 +1,13 @@
+name: sleep-as-android
+description: Wrapper for receiving Sleep-As-Android MQTT events.
+license: MIT
+url: github.com/milkmansson/toit-sleep-as-android
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: 5aa218df3ab12ccb042e2cd565795de40117c581
+dependencies:
+- url: github.com/toitware/mqtt
+  version: ^2.13.1
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.11.0
