@@ -1,0 +1,6 @@
+name: qr
+description: QR code generation.
+license: MIT
+url: github.com/lightbug-io/toit-qr
+version: 1.0.0
+hash: 07192f5aa3d1ad366fac5a288f8b0b2d30e08583
