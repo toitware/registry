@@ -1,0 +1,8 @@
+name: ld2410
+description: Driver for working with the HLK LD2410B & C sensor modules.
+license: MIT
+url: github.com/nas2011/ld2410
+version: 1.0.0
+environment:
+  sdk: ^v2.0.0-alpha.190
+hash: e137b4630a4e34977d9a252ef936e6a340573037
