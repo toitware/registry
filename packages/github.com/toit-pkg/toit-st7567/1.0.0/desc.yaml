@@ -1,0 +1,11 @@
+name: st7567
+description: Driver for the ST7567 monochrome LCD display.
+license: MIT
+url: github.com/toit-pkg/toit-st7567
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.191
+hash: 7adf9f12886d41dde2066bacb5edc4baaaaaf63a
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.1.0
