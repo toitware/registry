@@ -1,0 +1,17 @@
+name: cli
+description: Tools, like an argument parser, to create command-line applications.
+license: MIT
+url: github.com/toitlang/pkg-cli
+version: 2.14.0
+environment:
+  sdk: ^2.0.0-alpha.189
+hash: ec895eedf75ad24f944a3c158e8b5c0624609b8a
+dependencies:
+- url: github.com/toitlang/pkg-desktop
+  version: ^1.1.0
+- url: github.com/toitlang/pkg-fs
+  version: ^2.3.1
+- url: github.com/toitlang/pkg-host
+  version: ^1.17.0
+- url: github.com/toitware/toit-lockfile
+  version: ^1.0.0
