@@ -1,0 +1,15 @@
+name: zygote
+description: Zygote-style two-container setup that lets a Toit application gracefully
+  fall back to a captive-portal WiFi provisioning mode.
+url: github.com/close2/toit-zygote
+version: 1.0.1
+environment:
+  sdk: ^2.0.0-alpha.190
+hash: e1a37e130e49cc5e85422f59d30c45bda2af9289
+dependencies:
+- url: github.com/toitlang/pkg-dns-simple-server
+  version: ^0.2.1
+- url: github.com/toitlang/pkg-http
+  version: ^2.5.0
+- url: github.com/toitlang/pkg-ntp
+  version: ^1.0.0
