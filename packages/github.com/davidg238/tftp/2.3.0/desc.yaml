@@ -1,0 +1,11 @@
+name: tftp
+description: A client library for the Trivial File Transfer Protocol.
+license: MIT
+url: github.com/davidg238/tftp
+version: 2.3.0
+hash: 8b05fa29df9bbe42e3887589b31636384f5bcf4a
+dependencies:
+- url: github.com/toitlang/pkg-cli
+  version: ^2.0.0,<2.7.0
+- url: github.com/toitlang/pkg-host
+  version: ^1.16.2,<1.17.0
