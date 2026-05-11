@@ -1,0 +1,9 @@
+name: fuzzy_logic
+description: A library for running fuzzy logic algorithms
+license: MIT
+url: github.com/davidg238/fuzzy_logic
+version: 0.8.0
+hash: eb4a00a0e9277a7729336d4a1a74f9ac26d3017d
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.12.0
