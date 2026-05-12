@@ -1,0 +1,8 @@
+name: mdns
+description: mDNS publisher and client library.
+license: MIT
+url: github.com/close2/toit-mdns
+version: 1.0.4
+environment:
+  sdk: ^2.0.0-alpha.191
+hash: 3c914717fe8050b8f4c1d4071ab2b8094a80526d
