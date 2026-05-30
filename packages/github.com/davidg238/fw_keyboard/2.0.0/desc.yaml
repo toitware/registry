@@ -1,0 +1,11 @@
+name: fw_keyboard
+description: A library to enable use of the Keyboard FeatherWing Rev 2.
+license: MIT
+url: github.com/davidg238/fw_keyboard
+version: 2.0.0
+hash: 928d710be92652bb4e0ca3e1aa12ed20a723c645
+dependencies:
+- url: github.com/toitware/toit-color-tft
+  version: ^2.1.0
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.9.0
