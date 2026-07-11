@@ -1,0 +1,6 @@
+name: mqtt2
+description: MQTT5 compliant mqtt client with observability
+license: MIT
+url: github.com/nas2011/mqtt2
+version: 1.0.0
+hash: 60885ec8d07c3f72323762851e34f22ac7ec359e
