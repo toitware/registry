@@ -1,0 +1,13 @@
+name: max31865
+description: Driver for MAX31865 RTD-to-Digital Converter.
+license: MIT
+url: github.com/toitware/max31865-driver
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: 18190fe53cb5ae17108b2a6c487614eeda89087c
+dependencies:
+- url: github.com/toitware/toit-resistance-to-temperature
+  version: ^1.0.0
+- url: github.com/toitware/toit-sensors
+  version: ^1.0.0
