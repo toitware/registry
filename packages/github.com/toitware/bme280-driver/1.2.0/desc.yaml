@@ -1,0 +1,11 @@
+name: bme280
+description: Driver for the Bosch BME280 environmental sensor.
+license: MIT
+url: github.com/toitware/bme280-driver
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: ca9c6451532139d506299fba8c0915cd3001982e
+dependencies:
+- url: github.com/toitware/toit-sensors
+  version: ^1.0.0
