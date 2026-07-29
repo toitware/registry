@@ -1,0 +1,11 @@
+name: ibutton
+description: A library to interact with iButton devices.
+license: MIT
+url: github.com/toitware/toit-ibutton
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: 91fb727952b5dedf7eeac0bb61c104e20d517067
+dependencies:
+- url: github.com/toitware/toit-1-wire
+  version: ^2.6.0
