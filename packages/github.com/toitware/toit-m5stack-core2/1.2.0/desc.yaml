@@ -1,0 +1,17 @@
+name: m5stack_core2
+description: Useful functions for the M5Stack Core2.
+license: MIT
+url: github.com/toitware/toit-m5stack-core2
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: d24cb84088a2601f94a31607283cfefad0bd6462
+dependencies:
+- url: github.com/imliubo/ft63xx-toit
+  version: ^1.0.1
+- url: github.com/toitware/toit-axp192
+  version: ^1.0.1
+- url: github.com/toitware/toit-color-tft
+  version: ^1.3.1
+- url: github.com/toitware/toit-pixel-display
+  version: ^1.7.1
