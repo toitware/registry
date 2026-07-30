@@ -1,0 +1,8 @@
+name: pixel_strip
+description: A driver library for WS2812B-compatible LED pixel strips like Neopixels.
+license: MIT
+url: github.com/toitware/toit-pixel-strip
+version: 1.4.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: e7b0942f6cdc8f5575a3d7e78b74fef1544117c5
