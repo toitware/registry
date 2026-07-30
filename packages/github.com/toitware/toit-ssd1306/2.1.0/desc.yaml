@@ -1,0 +1,11 @@
+name: ssd1306
+description: Driver for 1-bit OLED displays.
+license: MIT
+url: github.com/toitware/toit-ssd1306
+version: 2.1.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: 444a71ef89a06674c7df5d24754663ec9aeae267
+dependencies:
+- url: github.com/toitware/toit-pixel-display
+  version: ^2.1.0
