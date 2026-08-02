@@ -1,0 +1,8 @@
+name: lsm303dlhc
+description: Driver for the LSM303DLHC accelerometer and magnetometer.
+license: MIT
+url: github.com/toitware/toit-lsm303dlhc
+version: 1.2.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: 10d938e81af7b9be5e836f4524cbd2ff9566b574
