@@ -1,0 +1,8 @@
+name: audio
+description: Packed PCM processing and DSP primitives for Toit.
+license: MIT
+url: github.com/toit-pkg/toit-audio
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.198
+hash: 3f4267ec82f923516b8194858904f400d5ac8703
