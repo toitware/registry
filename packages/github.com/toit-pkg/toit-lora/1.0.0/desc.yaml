@@ -1,0 +1,8 @@
+name: lora
+description: LoRa radio drivers and LoRaWAN Class A support.
+license: MIT
+url: github.com/toit-pkg/toit-lora
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.198
+hash: 338f88721cc80b21ddceee4ff7528b2d235fecc4
