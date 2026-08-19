@@ -1,0 +1,11 @@
+name: bmx280
+description: Driver for the Bosch BMP280 and BME280 environmental sensors.
+license: MIT
+url: github.com/toit-pkg/toit-bmx280
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.196
+hash: d1de0a840c125769f28b6ddaa8d446a1dc4b1f22
+dependencies:
+- url: github.com/toitware/toit-sensors
+  version: ^1.0.0
