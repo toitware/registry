@@ -1,0 +1,7 @@
+name: pictogrammers_icons
+description: Icons from the Pictogrammers project and Google Material Design.
+url: github.com/toitware/toit-icons-pictogrammers
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.97
+hash: 244b4e8e86c946c8828f1e626e456e1a49068a0e
