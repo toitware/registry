@@ -1,0 +1,8 @@
+description: Driver for the ST VL53L0X time-of-flight distance sensor, including multi-sensor buses via XSHUT and runtime address assignment.
+name: vl53l0x
+version: v1.0.0
+url: github.com/kidandcat/toit-vl53l0x
+hash: fc860f5d9adf42d656d087734eb7293fc4c0f2ea
+license: MIT
+environment:
+  sdk: ^2.0.0-alpha.198
