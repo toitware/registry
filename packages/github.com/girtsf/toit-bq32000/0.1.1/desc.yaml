@@ -1,0 +1,8 @@
+name: bq32000
+description: Driver for the Texas Instruments BQ32000 I2C real-time clock.
+license: MIT
+url: github.com/girtsf/toit-bq32000
+version: 0.1.1
+environment:
+  sdk: ^2.0.0-alpha.198
+hash: 4c180aac77c458432784756b55a250f565539cef
