@@ -1,0 +1,12 @@
+name: logd
+description: Captures print/log/trace output from containers and makes it accessible
+  over the network.
+license: MIT
+url: github.com/girtsf/toit-logd
+version: 0.1.2
+environment:
+  sdk: ^2.0.0-alpha.194
+hash: a567c6ad9a76137733ea27eea6eb5f8b0c9a3a1e
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.13.0
