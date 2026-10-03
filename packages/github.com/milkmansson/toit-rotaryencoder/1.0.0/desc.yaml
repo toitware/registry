@@ -1,0 +1,8 @@
+name: rotaryencoder
+description: Creates background task to execute lambdas for rotary encoders.
+license: MIT
+url: github.com/milkmansson/toit-rotaryencoder
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.195
+hash: c93ceb2ab946654be2fc07b9cd932873329a9076
