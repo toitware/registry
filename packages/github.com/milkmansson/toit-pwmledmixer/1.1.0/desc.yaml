@@ -1,0 +1,11 @@
+name: pwmledmixer
+description: Basic PWM LED mixer designed to support dual channel CCT LED strips.
+license: MIT
+url: github.com/milkmansson/toit-pwmledmixer
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.195
+hash: 6d7fb1e3add0cffe5c73151d34eee1322db0689d
+dependencies:
+- url: github.com/toitware/toit-morse
+  version: ^1.0.6
