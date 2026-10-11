@@ -1,0 +1,8 @@
+name: tca9548a
+description: Driver for the TCA9548A 8-channel I2C multiplexer.
+license: MIT
+url: github.com/girtsf/toit-tca9548a
+version: 0.1.0
+environment:
+  sdk: ^2.0.0-alpha.199
+hash: c98bf98a0041d62956e644662dab0d7087160656
