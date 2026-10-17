@@ -1,0 +1,8 @@
+name: bmm350
+description: Toit driver for the Bosch Sensortec BMM350 three-axis magnetometer.
+license: MIT
+url: github.com/milkmansson/toit-bmm350
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.189
+hash: a70f6abb618dbc142642951a0e088f8fab1a1a6d
