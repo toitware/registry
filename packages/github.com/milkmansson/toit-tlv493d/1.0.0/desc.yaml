@@ -1,0 +1,9 @@
+name: tlv493d
+description: Support for the Infineon TLV493D-A1B6 and TLV493D-A2BW I2C 3D magnetic
+  sensors, with an optional magnet-joystick layer.
+license: MIT
+url: github.com/milkmansson/toit-tlv493d
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.195
+hash: a7ebc035ac200801fa7b4a76d05a23600b5144de
