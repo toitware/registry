@@ -1,0 +1,11 @@
+name: pluggable-printing
+description: Pluggable printing package for Toit by Lightbug.
+license: MIT
+url: github.com/lightbug-io/toit-pluggable-printing
+version: 1.0.1
+hash: 5bd00020330a74ab6bc9a7b0220409efc1d8a73e
+dependencies:
+- url: github.com/toitlang/pkg-http
+  version: ^2.7.2
+- url: github.com/toitware/toit-cert-roots
+  version: ^1.12.0
