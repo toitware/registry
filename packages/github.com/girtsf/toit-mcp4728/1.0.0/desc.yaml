@@ -1,0 +1,8 @@
+name: mcp4728
+description: Driver for the MCP4728 quad-channel 12-bit I2C DAC with EEPROM.
+license: MIT
+url: github.com/girtsf/toit-mcp4728
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.199
+hash: 8a4b287369f653c95492fe22b64edbae7a82489e
