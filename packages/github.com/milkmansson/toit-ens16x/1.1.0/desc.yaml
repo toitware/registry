@@ -1,0 +1,8 @@
+name: ens16x
+description: A driver for the ENS160 and ENS161 digital multi-gas sensors.
+license: MIT
+url: github.com/milkmansson/toit-ens16x
+version: 1.1.0
+environment:
+  sdk: ^2.0.0-alpha.188
+hash: c2e9d22bd2ea453afb7afec65a7258c070c200ed
