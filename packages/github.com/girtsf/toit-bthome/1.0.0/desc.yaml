@@ -1,0 +1,8 @@
+name: bthome
+description: Parses BTHome v2 BLE advertisements and scans for BTHome devices.
+license: MIT
+url: github.com/girtsf/toit-bthome
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.199
+hash: a4b44767e7a8ee08ca068f25de35bd596d544f41
