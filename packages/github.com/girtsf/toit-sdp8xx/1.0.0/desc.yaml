@@ -1,0 +1,8 @@
+name: sdp8xx
+description: Driver for the Sensirion SDP8xx I2C differential pressure sensors.
+license: MIT
+url: github.com/girtsf/toit-sdp8xx
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.198
+hash: ea09683d6bae6347e4a1d4c9d7d0ec022034335a
