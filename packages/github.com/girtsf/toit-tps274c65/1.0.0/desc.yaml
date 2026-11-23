@@ -1,0 +1,8 @@
+name: tps274c65
+description: Driver for the TI TPS274C65 quad-channel smart high-side switch.
+license: MIT
+url: github.com/girtsf/toit-tps274c65
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.199
+hash: 27c928aa82a1734356afd29df47c6c8a22f14c69
