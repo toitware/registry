@@ -1,0 +1,8 @@
+name: mcp23008
+description: Driver for the MCP23008 8-bit I2C GPIO expander.
+license: MIT
+url: github.com/girtsf/toit-mcp23008
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.199
+hash: 9eab8e6876f3c5e550211b8ab46cdbf4a4a7633b
