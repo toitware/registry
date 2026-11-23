@@ -1,0 +1,13 @@
+name: lightbug
+description: Work with Lightbug protocols and devices
+license: MIT
+url: github.com/lightbug-io/toit-lightbug
+version: 0.24.0
+hash: f3ec21219f6c8bb2ff9553271f6242f994323f98
+dependencies:
+- url: github.com/lightbug-io/toit-coordinate
+  version: ^1.0.0
+- url: github.com/toitlang/pkg-http
+  version: ^2.11.0
+- url: github.com/toitware/toit-watchdog
+  version: ^1.4.1
