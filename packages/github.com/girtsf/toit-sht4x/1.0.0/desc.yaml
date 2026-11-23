@@ -1,0 +1,8 @@
+name: sht4x
+description: Driver for the Sensirion SHT4x I2C humidity and temperature sensors.
+license: MIT
+url: github.com/girtsf/toit-sht4x
+version: 1.0.0
+environment:
+  sdk: ^2.0.0-alpha.198
+hash: b5fd2e532de156778c47a972b62872883ab6b090
